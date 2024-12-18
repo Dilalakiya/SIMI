@@ -139,7 +139,7 @@
 2. ***Click [FORK](https://github.com/Dilalakiya/SIMI/)***
 3. ***Get Your [SESSION ID](https://cndjkcb-08cd6ac5fe9f.herokuapp.com)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
-5. ***Deploy on [Heroku](https:/SIGMA-MD/Bot/deploy/heroku)***
+5. ***Deploy on [Heroku](https://www.heroku.com/)***
 
 
 - ***Strictly! Use Your Own MongoDB Key, It's DataBase For Bot.***
