@@ -138,7 +138,7 @@
 1. ***Star⭐ The Repository Must***
 2. ***Click [FORK](https://github.com/Dilalakiya/SIMI/)***
 3. ***Get Your [SESSION ID](https://cndjkcb-08cd6ac5fe9f.herokuapp.com)***
-4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
+4. ***Get Your [Mongodb](mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority) Url***
 5. ***Deploy on [Heroku](https://www.heroku.com/)***
 
 
