@@ -3,9 +3,9 @@ SIMI-MD
 
 
 * @project_name SIMI-MD
-* @authors DILA <https://github.com/>
+* @authors DILA <https://github.com/Dilalakiya/SIMI//>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/>
+* @link <https://github.com/Dilalakiya/SIMI/>
 * @version 2.0.6
 
 © 2024 SIMI, All rights reserved.
