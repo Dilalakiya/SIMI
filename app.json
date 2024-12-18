@@ -1,0 +1,38 @@
+{
+  "name": "SIMI-MD(1.0V)",
+  "description": "SIMI-MD has been designed to make things easier using WhatsApp.❤️",
+  "logo": "https://telegra.ph/file/b9820c0a4ec86f9750b57.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "SIMI-MD"],
+  "success_url": "/",
+
+  "env": {
+    "BOT_NUMBER": {
+      "description": "Put the number here.",
+      "required": true
+    },  
+
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "GITHUB_USERNAME": {
+      "description": "Put your github username here.",
+      "required": true
+    },
+    
+    "GITHUB_AUTH_TOKEN": {
+      "description": "Put your github authtoken here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-22"
+  
+  
+}
