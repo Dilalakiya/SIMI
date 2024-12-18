@@ -9,17 +9,17 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/">
+  <a href="https://github.com/Dilalakiya/SIMI//">
     <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
 
-   <a href="https://github.com//SIMI-MD/fork">
+   <a href="https://github.com/Dilalakiya/SIMI//fork">
     <img src="https://img.shields.io/github/forks/SIMI-MD?style=flat-square&logo=github&color=black">
     
     
-  <a href="https://github.com//SIMI-MD/stargazers"> 
+  <a href="https://github.com/Dilalakiya/SIMI//stargazers"> 
      <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
 
-  <a href="https://github.com//SIMI-MD/watchers"> 
+  <a href="https://github.com/Dilalakiya/SIMI//watchers"> 
      <img src="https://img.shields.io/github/watchers//SIMI-MD?style=flat-square&logo=github&color=black">
 
   </a>
@@ -28,8 +28,8 @@
 
 
 <p align="center">
-<a href="https://github.com/"><img title="Owner" src=lakshitha DILMINA owner" width="173px" height="29"></a>
-  <a href="https://github.com//SIMI-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license//SIMI-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2Fr%2FSIMI-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
+<a href="https://github.com/Dilalakiya/SIMI/"><img title="Owner" src=lakshitha DILMINA owner" width="173px" height="29"></a>
+  <a href="https://github.com//SIMI-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/https://github.com/Dilalakiya/SIMI/?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2Fr%2FSIMI-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
 
@@ -146,14 +146,14 @@
 - ***Strictly! Don't Give Your Or Use Someone's MongoDB Url, Otherwise You Both Will Get Issues.***
 - ***Strictly! Without MongoDB Your Bot Will Not Run.***
 - ***Need Unlimited Stars On MY Repo***
-- ***If You Are Facing Any Issue In Bot, Then Create [Issue](https://github.com//SIMI-MD/issues/new).***
-- ***Also IF You Want To Give Me Ideas About Cmds, Then Create [Issue](https://github.com/c/SIMI-MD/issues/new) With Title #Idea.***
+- ***If You Are Facing Any Issue In Bot, Then Create [Issue](https://github.com/Dilalakiya/SIMI/).***
+- ***Also IF You Want To Give Me Ideas About Cmds, Then Create [Issue](https://github.com/Dilalakiya/SIMI/) With Title #Idea.***
 ##
 
 
 - ***Star ⭐ My Repo If You Like SIGMA-MD.***
-- ***The [SIMI-MD](https://github.com//SIMI-MD) is Made Under The [DILABOTZ TEAM YT-2.0 license](https://github./SIMI-MD/blob/main/LICENSE).***
-- ***[DILABOTZ TEAM YT-2.0 license](https://github.com//SIMI-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
+- ***The [SIMI-MD](https://github.com/Dilalakiya/SIMI/) is Made Under The [DILABOTZ TEAM YT-2.0 license](https://https://github.com/Dilalakiya/SIMI//blob/main/LICENSE).***
+- ***[DILABOTZ TEAM YT-2.0 license](https://github.com/Dilalakiya/SIMI//blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
