@@ -140,7 +140,7 @@
 3. ***Get Your [SESSION ID](https://cndjkcb-08cd6ac5fe9f.herokuapp.com)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/) Url***
 5. ***Deploy on [Heroku](https://www.heroku.com/)***
-
+6. ***Deploy on [Koyeb](https://www.koyeb.com/)***
 
 - ***Strictly! Use Your Own MongoDB Key, It's DataBase For Bot.***
 - ***Strictly! Don't Give Your Or Use Someone's MongoDB Url, Otherwise You Both Will Get Issues.***
